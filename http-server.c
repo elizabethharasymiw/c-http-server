@@ -4,7 +4,7 @@
 
 #include <sys/socket.h> // socket-related functions and structures
 #include <netinet/in.h> // IPv4 and IPv6 structures
-#include <apra/inet.h>  // functions for manipulating numeric IP addresses and port numbers
+//#include <apra/inet.h>  // functions for manipulating numeric IP addresses and port numbers
 
 #include <unistd.h>     // provides access to the POSIX operating system API
 
